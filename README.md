@@ -15,7 +15,7 @@ O programa é responsável por escrever o arquivo "saida.txt" com o nome do alun
  pontos)
  
 ### Método de Ordenação
-O método de ordenação escolhido foi o **Merge Sort**, devido a complexidade do algoritmo ser **O(n * log n)** no pior caso, economizando recursos computacionais que não seriam possíveis nos outros métodos como o QuickSort e Selection Sort com complexidade O(n²) no pior cenário.
+O método de ordenação escolhido foi o **Merge Sort**, devido a complexidade do algoritmo ser **_O(n * log n)_**, economizando recursos computacionais que não seriam possíveis nos outros métodos como o QuickSort e Selection Sort com complexidade O(n²) no pior caso.
 Devido às necessidades do problema proposto, uma adaptação é feita no merge, para que os critérios de desampate sejam cumpridos caso a nota de dois alunos seja igual.
 
 #### Critérios de Ordenação:
