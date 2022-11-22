@@ -1,5 +1,6 @@
 # Recursão e Ordenação
 Este trabalho utiliza funções recursivas e método de ordenação aprendidos na disciplina de Programação 2 do cursos Bacharelado em Sistemas de Informação.
+Programa principal: [main.py](main.py)
 
 ## Especificações
 Dado uma planilha de notas contendo:
